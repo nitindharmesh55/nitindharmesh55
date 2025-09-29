@@ -1,4 +1,4 @@
-👋 Hi, I'm Nitin Dharmesh
+👋 Hi, I'm Nitin-Rajdharmesh
 
 🚀 What I Do
 
