@@ -1,89 +1,81 @@
-# NITIN-RAJDHARMESH // DEVELOPER
+# Nitin-Rajdharmesh
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,45:111C3A,100:075985&height=260&section=header&text=NITIN-RAJDHARMESH&fontSize=43&fontColor=E5F7FF&fontAlignY=42&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=13&descColor=38D9FF&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:192A26,50:334C43,100:697C69&height=260&section=header&text=NITIN%20RAJDHARMESH&fontSize=42&fontColor=F3F0E8&fontAlignY=43&desc=DESIGNING%20THOUGHTS.%20ENGINEERING%20IDEAS.&descSize=12&descColor=D9E2D4&descAlignY=63" />
 
 <br/>
 
-### `DEVELOPER` · `DESIGNER` · `TECH ENTHUSIAST`
-
-Building digital experiences through code, design, and intelligent systems.
+*An intersection of logic, creativity and technology.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitindharmesh55)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/nitinrajdharmesh)
-[![Behance](https://img.shields.io/badge/BEHANCE-050816?style=for-the-badge&logo=behance&logoColor=7B61FF)](https://www.behance.net/nitinrajdharmesh)
-[![Email](https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:nitindharmesh55@gmail.com)
+[GitHub](https://github.com/nitindharmesh55) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/nitinrajdharmesh) &nbsp; / &nbsp; [Behance](https://www.behance.net/nitinrajdharmesh) &nbsp; / &nbsp; [Email](mailto:nitindharmesh55@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<sub>01 / THE PERSON BEHIND THE CODE</sub>
+`01 — A LITTLE ABOUT ME`
 
-# Beyond the Interface.
+# Code is my medium.  
+# Curiosity is my direction.
 
 </div>
 
-I'm Nitin-Rajdharmesh, a developer interested in the intersection of software engineering, interface design, and artificial intelligence.
+I'm Nitin-Rajdharmesh, a developer and designer fascinated by the relationship between human creativity and technology.
 
-I enjoy understanding how things work, solving problems through programming, and transforming ideas into useful digital experiences.
+I enjoy building thoughtful interfaces, exploring programming concepts, and understanding the systems that make digital experiences possible.
 
-My approach is simple: **Understand → Experiment → Build → Improve.**
+Currently exploring the world of Python, artificial intelligence and machine learning.
+
+<br/>
 
 ```python
-developer = {
-    "name": "Nitin-Rajdharmesh",
-    "interests": [
-        "Software Development",
-        "UI/UX Design",
+class Nitin:
+    interests = [
+        "Creative Development",
+        "UI / UX Design",
         "Artificial Intelligence",
-        "Machine Learning"
-    ],
-    "currently_exploring": "Python & AI/ML",
-    "philosophy": "Build with purpose."
-}
+        "Problem Solving"
+    ]
+
+    philosophy = "Stay curious. Keep creating."
 ```
 
 ---
 
 <div align="center">
 
-<sub>02 / TECHNICAL CAPABILITIES</sub>
+`02 — THE CREATIVE TOOLKIT`
 
-# The Technology Stack.
+# Things I work with.
+
+*Different tools, one continuous process of learning.*
 
 </div>
 
-### ◈ Development & Programming
+**01 / Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,react,nextjs,nodejs" />
 </p>
 
-### ◈ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,jquery,vue,sass" />
-</p>
-
-### ◈ Data & Machine Learning
+**02 / Data & Intelligence**
 
 <p>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,mysql,sqlite" />
 </p>
 
-### ◈ Design & Creative Tools
+**03 / Design & Visual Thinking**
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,canva,framer" />
+<img src="https://skillicons.dev/icons?i=figma,framer,canva,ps" />
 </p>
 
-### ◈ Development Environment
+**04 / Tools & Workflow**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,webpack" />
@@ -93,20 +85,18 @@ developer = {
 
 <div align="center">
 
-<sub>03 / SELECTED WORK</sub>
+`03 — SELECTED EXPERIMENTS`
 
-# Things I've Built.
+# A collection of ideas.
+
+*Learning happens when ideas leave the notebook and become real.*
 
 </div>
-
-I believe projects demonstrate more than a list of technologies.
-
-Explore my repositories for programming experiments, development projects, and practical implementations.
 
 <div align="center">
 
 <a href="https://github.com/nitindharmesh55?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-334C43?style=for-the-badge&logo=github&logoColor=F3F0E8"/>
 </a>
 
 </div>
@@ -115,80 +105,66 @@ Explore my repositories for programming experiments, development projects, and p
 
 <div align="center">
 
-<sub>04 / GITHUB PERFORMANCE</sub>
+`04 — THE JOURNEY`
 
-# The Activity Matrix.
-
-*Every contribution represents another experiment, problem solved, or idea explored.*
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindharmesh55&bg_color=050816&color=38D9FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitindharmesh55&show_icons=true&hide_border=true&bg_color=050816&title_color=38D9FF&icon_color=7B61FF&text_color=E5E7EB&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=nitindharmesh55&theme=transparent&hide_border=true&background=050816&ring=38D9FF&fire=7B61FF&currStreakLabel=38D9FF" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindharmesh55&layout=compact&hide_border=true&bg_color=050816&title_color=38D9FF&text_color=E5E7EB" />
+# Notes from the process.
 
 </div>
 
----
-
-<div align="center">
-
-<sub>05 / CURRENT DIRECTION</sub>
-
-# What I'm Exploring.
-
-</div>
-
-| Area | Direction |
-|---|---|
-| Programming | Strengthening problem-solving skills |
+| Currently exploring | Intention |
+|:--|:--|
 | Python | Building practical applications |
-| AI / ML | Exploring data and intelligent systems |
-| Web Development | Developing modern interfaces |
-| UI/UX | Improving digital product experiences |
-
-<br/>
-
-```text
-SYSTEM STATUS : LEARNING
-CURRENT MODE  : BUILDING
-NEXT MISSION  : ENGINEER SOMETHING MEANINGFUL
-```
+| C Programming | Strengthening logical thinking |
+| JavaScript | Creating interactive experiences |
+| UI/UX | Designing intuitive products |
+| AI & Machine Learning | Understanding intelligent systems |
 
 ---
 
 <div align="center">
 
-<sub>06 / ESTABLISH CONNECTION</sub>
+`05 — GITHUB JOURNAL`
 
-# Let's Build Something.
+# A record of making.
 
-I'm interested in meaningful projects, collaboration, and opportunities to learn through real-world development.
+*Every contribution is a small part of a larger journey.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nitinrajdharmesh)
-[![Behance](https://img.shields.io/badge/EXPLORE-Behance-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/nitinrajdharmesh)
-[![Email](https://img.shields.io/badge/CONTACT-EMAIL-D14836?style=for-the-badge&logo=gmail)](mailto:nitindharmesh55@gmail.com)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindharmesh55&bg_color=192A26&color=E8E5DA&line=9DB39A&point=E8E5DA&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20JOURNAL" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nitindharmesh55&style=for-the-badge&color=075985&label=PROFILE+VISITORS" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitindharmesh55&show_icons=true&hide_border=true&bg_color=192A26&title_color=D9E2D4&icon_color=9DB39A&text_color=F3F0E8"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=nitindharmesh55&theme=transparent&hide_border=true&background=192A26&ring=9DB39A&fire=D9E2D4&currStreakLabel=D9E2D4&sideLabels=F3F0E8&currStreakNum=F3F0E8&sideNums=F3F0E8"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:111C3A,100:030712&height=120&section=footer" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindharmesh55&layout=compact&hide_border=true&bg_color=192A26&title_color=D9E2D4&text_color=F3F0E8"/>
 
-### `THINK DEEPLY. BUILD INTELLIGENTLY. STAY CURIOUS.`
+</div>
 
-<sub>© NITIN-RAJDHARMESH · BUILT WITH CURIOSITY.</sub>
+---
+
+<div align="center">
+
+`06 — BEYOND THE SCREEN`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697C69,50:334C43,100:192A26&height=180&section=header&text=KEEP%20MAKING.&fontSize=35&fontColor=F3F0E8&fontAlignY=43&desc=THERE%20IS%20ALWAYS%20SOMETHING%20NEW%20TO%20DISCOVER.&descSize=10&descColor=D9E2D4&descAlignY=65"/>
+
+### Let's create something meaningful.
+
+Open to creative collaborations, learning opportunities and interesting projects.
+
+[LinkedIn](https://linkedin.com/in/nitinrajdharmesh) · [Behance](https://www.behance.net/nitinrajdharmesh) · [Email](mailto:nitindharmesh55@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nitindharmesh55&style=flat-square&color=697C69&label=VISITORS"/>
+
+<br/><br/>
+
+*Made with intention, curiosity and a little too much coffee.*
 
 </div>
