@@ -1,170 +1,125 @@
-# Nitin-Rajdharmesh
+# 👨‍💻 NITIN-RAJDHARMESH
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:192A26,50:334C43,100:697C69&height=260&section=header&text=NITIN%20RAJDHARMESH&fontSize=42&fontColor=F3F0E8&fontAlignY=43&desc=DESIGNING%20THOUGHTS.%20ENGINEERING%20IDEAS.&descSize=12&descColor=D9E2D4&descAlignY=63" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123C69,100:00D4FF&height=220&section=header&text=NITIN%20RAJDHARMESH&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20THROUGH%20CODE&descAlignY=58&descSize=13" width="100%"/>
 
-<br/>
+### `DESIGN × CODE × INTELLIGENCE`
 
-*An intersection of logic, creativity and technology.*
+*Turning ideas into interfaces, logic into solutions, and curiosity into technology.*
 
-<br/>
-
-[GitHub](https://github.com/nitindharmesh55) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/nitinrajdharmesh) &nbsp; / &nbsp; [Behance](https://www.behance.net/nitinrajdharmesh) &nbsp; / &nbsp; [Email](mailto:nitindharmesh55@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nitindharmesh55.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinrajdharmesh)
+[![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nitinrajdharmesh)
+[![Email](https://img.shields.io/badge/CONTACT-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nitindharmesh55@gmail.com)
 
 </div>
 
-<br/>
+---
+
+## `01` // ABOUT ME
+
+```yaml
+Name: Nitin-Rajdharmesh
+Role: Developer | UI/UX Designer
+Focus:
+  - Web Development
+  - Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+Currently: Exploring Python & AI/ML
+Mindset: Learn. Build. Experiment. Improve.
+```
+
+I enjoy exploring the intersection of **design, programming, and intelligent systems**.
+
+My goal is to build technology that is not only functional but also intuitive, efficient, and meaningful.
+
+---
+
+## `02` // TECH ARSENAL
+
+**FRONTEND & DESIGN**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**PROGRAMMING & BACKEND**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**DATA & AI/ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+**TOOLS & WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## `03` // GITHUB ANALYTICS
 
 <div align="center">
 
-`01 — A LITTLE ABOUT ME`
+<img src="https://github-readme-stats.vercel.app/api?username=nitindharmesh55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF" width="49%"/>
 
-# Code is my medium.  
-# Curiosity is my direction.
+<img src="https://streak-stats.demolab.com?user=nitindharmesh55&theme=tokyonight&hide_border=true&background=050816&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindharmesh55&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" width="50%"/>
 
 </div>
 
-I'm Nitin-Rajdharmesh, a developer and designer fascinated by the relationship between human creativity and technology.
+---
 
-I enjoy building thoughtful interfaces, exploring programming concepts, and understanding the systems that make digital experiences possible.
+## `04` // CURRENT TRANSMISSION
 
-Currently exploring the world of Python, artificial intelligence and machine learning.
+```text
+[ STATUS: ACTIVE ]
 
-<br/>
+> Exploring Python and AI/ML
+> Strengthening programming fundamentals
+> Building practical development projects
+> Improving UI/UX and product thinking
+> Working towards becoming a software developer
 
-```python
-class Nitin:
-    interests = [
-        "Creative Development",
-        "UI / UX Design",
-        "Artificial Intelligence",
-        "Problem Solving"
-    ]
-
-    philosophy = "Stay curious. Keep creating."
+[ NEXT OBJECTIVE: BUILD SOMETHING IMPACTFUL ]
 ```
 
 ---
 
-<div align="center">
-
-`02 — THE CREATIVE TOOLKIT`
-
-# Things I work with.
-
-*Different tools, one continuous process of learning.*
-
-</div>
-
-**01 / Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,react,nextjs,nodejs" />
-</p>
-
-**02 / Data & Intelligence**
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,mysql,sqlite" />
-</p>
-
-**03 / Design & Visual Thinking**
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,framer,canva,ps" />
-</p>
-
-**04 / Tools & Workflow**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,webpack" />
-</p>
-
----
+## `05` // CONNECT WITH ME
 
 <div align="center">
 
-`03 — SELECTED EXPERIMENTS`
+**OPEN TO LEARNING • COLLABORATION • OPPORTUNITIES**
 
-# A collection of ideas.
-
-*Learning happens when ideas leave the notebook and become real.*
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/nitindharmesh55?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-334C43?style=for-the-badge&logo=github&logoColor=F3F0E8"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-`04 — THE JOURNEY`
-
-# Notes from the process.
-
-</div>
-
-| Currently exploring | Intention |
-|:--|:--|
-| Python | Building practical applications |
-| C Programming | Strengthening logical thinking |
-| JavaScript | Creating interactive experiences |
-| UI/UX | Designing intuitive products |
-| AI & Machine Learning | Understanding intelligent systems |
-
----
-
-<div align="center">
-
-`05 — GITHUB JOURNAL`
-
-# A record of making.
-
-*Every contribution is a small part of a larger journey.*
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinrajdharmesh)
+[![Behance](https://img.shields.io/badge/Explore_My_Designs-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nitinrajdharmesh)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitindharmesh55@gmail.com)
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindharmesh55&bg_color=192A26&color=E8E5DA&line=9DB39A&point=E8E5DA&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20JOURNAL" />
+![Profile Views](https://komarev.com/ghpvc/?username=nitindharmesh55&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:123C69,100:050816&height=100&section=footer" width="100%"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitindharmesh55&show_icons=true&hide_border=true&bg_color=192A26&title_color=D9E2D4&icon_color=9DB39A&text_color=F3F0E8"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=nitindharmesh55&theme=transparent&hide_border=true&background=192A26&ring=9DB39A&fire=D9E2D4&currStreakLabel=D9E2D4&sideLabels=F3F0E8&currStreakNum=F3F0E8&sideNums=F3F0E8"/>
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindharmesh55&layout=compact&hide_border=true&bg_color=192A26&title_color=D9E2D4&text_color=F3F0E8"/>
-
-</div>
-
----
-
-<div align="center">
-
-`06 — BEYOND THE SCREEN`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697C69,50:334C43,100:192A26&height=180&section=header&text=KEEP%20MAKING.&fontSize=35&fontColor=F3F0E8&fontAlignY=43&desc=THERE%20IS%20ALWAYS%20SOMETHING%20NEW%20TO%20DISCOVER.&descSize=10&descColor=D9E2D4&descAlignY=65"/>
-
-### Let's create something meaningful.
-
-Open to creative collaborations, learning opportunities and interesting projects.
-
-[LinkedIn](https://linkedin.com/in/nitinrajdharmesh) · [Behance](https://www.behance.net/nitinrajdharmesh) · [Email](mailto:nitindharmesh55@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nitindharmesh55&style=flat-square&color=697C69&label=VISITORS"/>
-
-<br/><br/>
-
-*Made with intention, curiosity and a little too much coffee.*
+**`DESIGNED WITH CURIOSITY. BUILT WITH CODE.`**
 
 </div>
