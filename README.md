@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nitindharmesh55.github.io)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinrajdharmesh)
 [![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nitinrajdharmesh)
-[![Email](https://img.shields.io/badge/CONTACT-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nitindharmesh55@gmail.com)
+[![Email](https://img.shields.io/badge/CONTACT-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nitindharmesh01@gmail.com)
 
 </div>
 
