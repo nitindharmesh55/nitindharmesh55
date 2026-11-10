@@ -1,25 +1,125 @@
-👋 Hi, I'm Nitin-Rajdharmesh
+# 👨‍💻 NITIN-RAJDHARMESH
 
-🚀 What I Do
+<div align="center">
 
-🌐 Web Development (HTML, CSS, JavaScript, UI/UX)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123C69,100:00D4FF&height=220&section=header&text=NITIN%20RAJDHARMESH&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20THROUGH%20CODE&descAlignY=58&descSize=13" width="100%"/>
 
-🤖 Exploring AI & Machine Learning
+### `DESIGN × CODE × INTELLIGENCE`
 
-💻 Programming & Problem Solving
+*Turning ideas into interfaces, logic into solutions, and curiosity into technology.*
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nitindharmesh55.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinrajdharmesh)
+[![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nitinrajdharmesh)
+[![Email](https://img.shields.io/badge/CONTACT-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nitindharmesh55@gmail.com)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/nitinrajdharmesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nitinrajdharmesh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nitin Dharmesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitindharmesh55@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nitindharmesh55&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nitindharmesh55&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitindharmesh55&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nitindharmesh55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` // ABOUT ME
+
+```yaml
+Name: Nitin-Rajdharmesh
+Role: Developer | UI/UX Designer
+Focus:
+  - Web Development
+  - Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+Currently: Exploring Python & AI/ML
+Mindset: Learn. Build. Experiment. Improve.
+```
+
+I enjoy exploring the intersection of **design, programming, and intelligent systems**.
+
+My goal is to build technology that is not only functional but also intuitive, efficient, and meaningful.
+
+---
+
+## `02` // TECH ARSENAL
+
+**FRONTEND & DESIGN**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**PROGRAMMING & BACKEND**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**DATA & AI/ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+**TOOLS & WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## `03` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitindharmesh55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=7B61FF&text_color=FFFFFF" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=nitindharmesh55&theme=tokyonight&hide_border=true&background=050816&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindharmesh55&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" width="50%"/>
+
+</div>
+
+---
+
+## `04` // CURRENT TRANSMISSION
+
+```text
+[ STATUS: ACTIVE ]
+
+> Exploring Python and AI/ML
+> Strengthening programming fundamentals
+> Building practical development projects
+> Improving UI/UX and product thinking
+> Working towards becoming a software developer
+
+[ NEXT OBJECTIVE: BUILD SOMETHING IMPACTFUL ]
+```
+
+---
+
+## `05` // CONNECT WITH ME
+
+<div align="center">
+
+**OPEN TO LEARNING • COLLABORATION • OPPORTUNITIES**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinrajdharmesh)
+[![Behance](https://img.shields.io/badge/Explore_My_Designs-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nitinrajdharmesh)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitindharmesh55@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitindharmesh55&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:123C69,100:050816&height=100&section=footer" width="100%"/>
+
+**`DESIGNED WITH CURIOSITY. BUILT WITH CODE.`**
+
+</div>
